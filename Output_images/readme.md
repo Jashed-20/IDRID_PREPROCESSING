@@ -1,6 +1,6 @@
 ### Preprocessing Results & Steps
 
-![image]([Screenshot%202026-06-25%20232812.png](https://github.com/Jashed-20/IDRID_PREPROCESSING/blob/939200ae52133dbd5f35154b8e93a9a4d5336033/images/Screenshot%202026-06-25%20232812.png))
+![ingestion](images/Screenshot 2026-06-25 232812.png)
 
 ![Step 2 Crop]([Screenshot%202026-06-25%20232902.png](https://github.com/Jashed-20/IDRID_PREPROCESSING/blob/939200ae52133dbd5f35154b8e93a9a4d5336033/images/Screenshot%202026-06-25%20232902.png))
 
