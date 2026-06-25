@@ -1,6 +1,6 @@
 ### Preprocessing Results & Steps
 
-![Step 1 Ingestion](Screenshot%202026-06-25%20232812.png)
+![Step 1 Ingestion](Screenshot 2026-06-25 232812.png)
 
 ![Step 2 Crop](Screenshot%202026-06-25%20232902.png)
 
